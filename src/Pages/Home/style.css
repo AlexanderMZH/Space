@@ -1,0 +1,21 @@
+.home-page{
+  width: 100%;
+  height: 100vh;
+  background: url('../../assets/images/home-background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.content-container{
+  position: absolute;
+  width: 100%;
+  padding: 0 165px;
+  bottom: 131px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.text-data-container{
+  width: 450px;
+}

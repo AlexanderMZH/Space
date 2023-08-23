@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 4%;
+}
+
+header .logo-container{
+  cursor: pointer;
+}
